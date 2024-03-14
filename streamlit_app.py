@@ -60,3 +60,4 @@ if ingredients_list:
         st.success('Your Smoothie is ordered, ' + name_on_order + '!', icon="✅")
 
 
+cnx.close()
